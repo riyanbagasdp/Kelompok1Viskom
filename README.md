@@ -16,7 +16,7 @@ Hu Moments for PData3.png:
 
 image for PData3.png:
 
-<image href="https://github.com/riyanbagasdp/Kelompok1Viskom.git/images/PData3.png">
+<img src="PData3.png" alt="Alt text" title="Optional title">
 
 Processed image for PData3.png:
 <image href="/images/PData3.png">

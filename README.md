@@ -9,12 +9,13 @@
 </ul>
 
 ## Hu Moments and Image Processing Results
-Hasil analisa: \n Beberapa gambar dari dataset yang sama memiliki Hu Moments yang sangat mirip. Contohnya, "PData.png" dan "PData1.png" memiliki Hu Moments yang identik.
+## Hasil analisa:
+Beberapa gambar dari dataset yang sama memiliki Hu Moments yang sangat mirip. Contohnya, "PData.png" dan "PData1.png" memiliki Hu Moments yang identik.
 Dataset lain juga menunjukkan pola yang konsisten meskipun ada beberapa variasi kecil. Misalnya, AData.png, AData1.png, AData2.png, AData3.png, dan AData4.png memiliki nilai Hu Moments pertama (moment ke-1) yang sangat dekat sekitar 1.12e-03 hingga 1.13e-03.
 
-/n Dataset "PData" dan "AData" menunjukkan perbedaan yang signifikan dalam beberapa momen. Sebagai contoh, momen ketiga (Hu Moment ke-3) untuk "AData" berkisar sekitar 7.3e-10 sementara untuk "PData" berkisar sekitar 5.2e-10.
+Dataset "PData" dan "AData" menunjukkan perbedaan yang signifikan dalam beberapa momen. Sebagai contoh, momen ketiga (Hu Moment ke-3) untuk "AData" berkisar sekitar 7.3e-10 sementara untuk "PData" berkisar sekitar 5.2e-10.
 
-/n Dalam kelompok dataset yang sama, misalnya "AData" atau "PData", ada kemiripan yang tinggi dalam nilai Hu Moments. Ini menunjukkan bahwa gambar dalam kelompok yang sama memiliki struktur atau bentuk yang serupa.
+Dalam kelompok dataset yang sama, misalnya "AData" atau "PData", ada kemiripan yang tinggi dalam nilai Hu Moments. Ini menunjukkan bahwa gambar dalam kelompok yang sama memiliki struktur atau bentuk yang serupa.
 
 
 Hu Moments for PData3.png:

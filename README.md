@@ -15,7 +15,7 @@ Dataset lain juga menunjukkan pola yang konsisten meskipun ada beberapa variasi 
 
 Dataset "PData" dan "AData" menunjukkan perbedaan yang signifikan dalam beberapa momen. Sebagai contoh, momen ketiga (Hu Moment ke-3) untuk "AData" berkisar sekitar 7.3e-10 sementara untuk "PData" berkisar sekitar 5.2e-10.
 
-Dalam kelompok dataset yang sama, misalnya "AData" atau "PData", ada kemiripan yang tinggi dalam nilai Hu Moments. Ini menunjukkan bahwa gambar dalam kelompok yang sama memiliki struktur atau bentuk yang serupa.
+Dalam kelompok dataset yang sama, misalnya "AData" atau "PData", ada kemiripan yang tinggi dalam nilai Hu Moments pada bentuk yang sama. Ini menunjukkan bahwa gambar dalam kelompok yang sama memiliki struktur atau bentuk yang serupa.
 
 
 Hu Moments for PData3.png:
